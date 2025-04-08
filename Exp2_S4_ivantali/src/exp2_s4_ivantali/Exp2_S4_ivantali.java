@@ -112,7 +112,7 @@ public class Exp2_S4_ivantali {
                     continue;
                 }
                 if (zonaSeleccionada[asiento - 1].equals(oc)) {
-                    System.out.println("Ese asiento ya está ocupado.");
+                    System.out.println("Ese asiento ya esta ocupado.");
                     continue;
                 }
                 // Marcar como ocupado
